@@ -1,0 +1,7 @@
+# Add rule id to suppress
+# You can get rules ids on ...
+#   - analysis output
+#   - `cppcheck --errorlist` output
+# Here is a snapshot of `cppcheck --errorlist` 
+# https://gist.github.com/gnakagaw/67ace9058546f716bb88a152434cf8a2
+
