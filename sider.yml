@@ -1,6 +1,7 @@
 linter:
   cppcheck:
     suppressions-list: cppcheck_ignore.txt
+    enable: "all"
     addon:
       - cert
       - misra
